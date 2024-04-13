@@ -15,7 +15,7 @@ const openModal = function () {
     overlay.classList.remove('hidden');
 }
 
-//adding the hidden class to make modal not display
+//adding the hidden class to make modal window not display
 const closeModal = function () {
     modal.classList.add('hidden');
     overlay.classList.add('hidden');
